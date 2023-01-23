@@ -6,7 +6,7 @@ LIVE PROJECTS:
 
 ## Screenshots
 
-![alt text](//Screenshots/Screenshot%20(7).png)
+![image](./Screenshots/Screenshot%20(7).png)
 
 ### 🛠 Skills
 
@@ -22,7 +22,7 @@ github-link (https://github.com/Raviraj39/live-class-project-1)
 
 ## Screenshots
 
-![App Screenshot](../HTML-CSS-DOC-ASSIGNMENT/Screenshots/Screenshot%20(8).png)
+![App Screenshot](./Screenshots/Screenshot%20(8).png)
 
 ### 🛠 Skills
 
@@ -38,7 +38,7 @@ github-link (https://github.com/Raviraj39/live-class-project-2)
 
 ## Screenshots
 
-![App Screenshot](../HTML-CSS-DOC-ASSIGNMENT/Screenshots/Screenshot%20(9).png)
+![App Screenshot](./Screenshots/Screenshot%20(9).png)
 
 ### 🛠 Skills
 
@@ -54,7 +54,7 @@ github-link (https://github.com/Raviraj39/live-class-project-3)
 
 ## Screenshots
 
-![App Screenshot](../HTML-CSS-DOC-ASSIGNMENT/Screenshots/Screenshot%20(10).png)
+![App Screenshot](./Screenshots/Screenshot%20(10).png)
 
 ### 🛠 Skills
 
@@ -70,7 +70,7 @@ github-link (https://github.com/Raviraj39/live-class-project-4)
 
 ## Screenshots
 
-![App Screenshot](../HTML-CSS-DOC-ASSIGNMENT/Screenshots/Screenshot%20(11).png)
+![App Screenshot](./Screenshots/Screenshot%20(11).png)
 
 ### 🛠 Skills
 
@@ -86,7 +86,7 @@ github-link (https://github.com/Raviraj39/live-class-project-5)
 
 ## Screenshots
 
-![App Screenshot](../HTML-CSS-DOC-ASSIGNMENT/Screenshots/Screenshot%20(12).png)
+![App Screenshot](./Screenshots/Screenshot%20(12).png)
 
 ### 🛠 Skills
 
@@ -102,7 +102,7 @@ github-link (https://github.com/Raviraj39/live-class-project-6)
 
 ## Screenshots
 
-![App Screenshot](../HTML-CSS-DOC-ASSIGNMENT/Screenshots/Screenshot%20(13).png)
+![App Screenshot](./Screenshots/Screenshot%20(13).png)
 
 ### 🛠 Skills
 
@@ -118,7 +118,7 @@ github-link (https://github.com/Raviraj39/live-class-project-7)
 
 ## Screenshots
 
-![App Screenshot](../HTML-CSS-DOC-ASSIGNMENT/Screenshots/Screenshot%20(14).png)
+![App Screenshot](./Screenshots/Screenshot%20(14).png)
 
 ### 🛠 Skills
 
@@ -134,7 +134,7 @@ github-link (https://github.com/Raviraj39/live-class-project-8)
 
 ## Screenshots
 
-![App Screenshot](../HTML-CSS-DOC-ASSIGNMENT/Screenshots/Screenshot%20(15).png)
+![App Screenshot](./Screenshots/Screenshot%20(15).png)
 
 ### 🛠 Skills
 
@@ -150,7 +150,7 @@ github-link (https://github.com/Raviraj39/live-class-project-9)
 
 ## Screenshots
 
-![App Screenshot](../HTML-CSS-DOC-ASSIGNMENT/Screenshots/Screenshot%20(20).png)
+![App Screenshot](./Screenshots/Screenshot%20(20).png)
 
 ### 🛠 Skills
 
@@ -166,7 +166,7 @@ github-link (https://github.com/Raviraj39/live-class-project-10)
 
 ## Screenshots
 
-![App Screenshot](../HTML-CSS-DOC-ASSIGNMENT/Screenshots/Screenshot%20(15).png)
+![App Screenshot](./Screenshots/Screenshot%20(15).png)
 
 ### 🛠 Skills
 
@@ -182,7 +182,7 @@ github-link (https://github.com/Raviraj39/live-class-project-11)
 
 ## Screenshots
 
-![App Screenshot](../HTML-CSS-DOC-ASSIGNMENT/Screenshots/Screenshot%20(22).png)
+![App Screenshot](./Screenshots/Screenshot%20(22).png)
 
 ### 🛠 Skills
 
@@ -198,7 +198,7 @@ github-link (https://github.com/Raviraj39/live-class-project-12)
 
 ## Screenshots
 
-![App Screenshot](../HTML-CSS-DOC-ASSIGNMENT/Screenshots/Screenshot%20(23).png)
+![App Screenshot](./Screenshots/Screenshot%20(23).png)
 
 ### 🛠 Skills
 
@@ -214,7 +214,7 @@ github-link (https://github.com/Raviraj39/live-class-project-13)
 
 ## Screenshots
 
-![App Screenshot](../HTML-CSS-DOC-ASSIGNMENT/Screenshots/Screenshot%20(24).png)
+![App Screenshot](./Screenshots/Screenshot%20(24).png)
 
 ### 🛠 Skills
 
@@ -230,7 +230,7 @@ github-link (https://github.com/Raviraj39/live-class-project-14)
 
 ## Screenshots
 
-![App Screenshot](../HTML-CSS-DOC-ASSIGNMENT/Screenshots/Screenshot%20(26).png)
+![App Screenshot](./Screenshots/Screenshot%20(26).png)
 
 ### 🛠 Skills
 
