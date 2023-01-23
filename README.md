@@ -6,7 +6,7 @@ LIVE PROJECTS:
 
 ## Screenshots
 
-![App Screenshot](<../HTML-CSS-DOC-ASSIGNMENT/Screenshots/Screenshot%20(7).png>)
+![alt text](<//Screenshots/Screenshot%20(7).png>)
 
 ### 🛠 Skills
 
